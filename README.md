@@ -22,8 +22,8 @@ LinkedIn :- https://www.linkedin.com/in/brijesh-kumar-patel-653066196/
 
 
 ## 🔍 Projects
--**Project 1:- Built a website named "Todo List for Management System" using JavaScript, HTML, CSS, and Bootstrap
--**Project 2:- Designed and implemented an interactive Rock, Paper, Scissors game using HTML, CSS, and JavaScript
+- **Project 1:-** Built a website named "Todo List for Management System" using JavaScript, HTML, CSS, and Bootstrap
+- **Project 2:-** Designed and implemented an interactive Rock, Paper, Scissors game using HTML, CSS, and JavaScript
 
 ## 📈 GitHub Stats
 
