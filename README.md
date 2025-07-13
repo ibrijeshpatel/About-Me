@@ -1,35 +1,33 @@
-# Hello, I'm Brijesh Patel! 👋
+# 👋 Hi, I'm Brijesh Patel
 
-I'm a passionate Software Engineer based in Bangalore. Welcome to my GitHub profile!
+🚀 **Data Engineer | Cloud & Big Data Specialist | Python Enthusiast**  
+📧 **brijeshnitap@gmail.com**
 
-## 🚀 About Me
+Experienced Data Engineer with a strong record of delivering high-impact data solutions across **cloud platforms (AWS)**, **big data ecosystems (PySpark, Apache Airflow)**, and **BI tools (Power BI, Looker Studio)**. I’m passionate about building scalable, automated data systems that drive intelligent decision-making.
 
-- 🔭 I'm currently exploring opportunities in Data Engineering, Analytics, Backend, and Frontend development roles.
-- 🌱 I enjoy learning and staying updated with the latest technologies in the software development world.
-- 👯 I'm eager to collaborate on projects related to Python, JavaScript, HTML, CSS, Bootstrap and REST API.
-- 💬 Ask me about Python, JavaScript, HTML, CSS, or anything tech-related—I'm always up for a good conversation!
-- 📫 How to reach me: Feel free to drop me an email at :- liibrijeshpatel@outlook.com.
+---
 
-## 🛠️ Tech Stack
+## 🔧 What I Do
 
-- **Programming Languages:** Python, JavaScript, HTML, CSS, Bootstrap, REST API.
-- **Frameworks and Libraries:** -----
-- **Tools and Technologies:** MATLAB
+- 🔁 Design & implement end-to-end **data pipelines** using PySpark, Airflow, Docker, and SQL.
+- ☁️ Automate workflows with **AWS services** (S3, Glue, Lambda, EC2, Redshift, RDS) achieving **99.9% uptime**.
+- 📊 Build predictive models & BI dashboards that boosted **data adoption by 30%** across business teams.
+- ⚡ Reduce manual efforts by **67%**, processing over **600M+ records** with optimized ETL.
+- 💰 Drive business impact: +15% revenue, +18% customer satisfaction via dynamic pricing & segmentation.
+- 👥 Lead & mentor data teams, promoting a culture of **continuous learning**.
 
-## 🌐 Connect with Me
+---
 
-LinkedIn :- https://www.linkedin.com/in/brijesh-kumar-patel-653066196/
+## 🧰 Tech Stack
 
+`Python` | `SQL` | `PySpark` | `Apache Airflow` | `AWS (S3, Glue, Lambda, EC2, Redshift, RDS)`  
+`Docker` | `PostgreSQL` | `MongoDB` | `Neo4j` | `Power BI` | `Looker Studio`
 
-## 🔍 Projects
-- **Project 1:-** Built a website named "Todo List for Management System" using JavaScript, HTML, CSS, and Bootstrap
-- **Project 2:-** Designed and implemented an interactive Rock, Paper, Scissors game using HTML, CSS, and JavaScript
+---
 
-## 📈 GitHub Stats
+## 📫 Let’s Connect
 
-GitHub Stats:- https://github.com/Brjs-Ptl
+📧 brijeshnitap@gmail.com  
+🌐 Always open to collaboration and new opportunities in data-driven engineering.
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
-
-⭐️ Thank you for visiting my profile! ⭐️
-
+---
